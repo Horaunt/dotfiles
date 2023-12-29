@@ -1,0 +1,7 @@
+[Default Applications]
+application/octet-stream=byobu_old.desktop
+image/png=firefox.desktop
+
+[Added Associations]
+application/octet-stream=byobu_old.desktop;
+image/png=firefox.desktop;
