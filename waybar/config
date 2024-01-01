@@ -122,7 +122,7 @@
 		"format": "{ifname}",
 		"format-wifi": "({signalStrength}%) ",
 		"format-ethernet": "{ifname} ",
-		"format-disconnected": "", //An empty format will hide the module.
+		"format-disconnected": "", 
 		"tooltip-format": "{ifname}",
 		"tooltip-format-wifi": "{essid} ({signalStrength}%) ",
 		"tooltip-format-ethernet": "{ifname} ",
