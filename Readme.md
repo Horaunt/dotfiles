@@ -13,8 +13,7 @@ This repository contains my personal dotfiles for my Arch Linux setup. It is cus
 
 ## Screenshots
 
-![Screenshot 1](full_one.png)
-![Alt text](image.png)
+![Screenshot 1](assets/full_one.png)
 
 ## Installation
 
