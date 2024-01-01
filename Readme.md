@@ -27,12 +27,12 @@ To use these dotfiles, follow these steps:
 
 2. Install the required dependencies:
 
-   - Hyprland: [Installation instructions](https://hyprland.com/installation)
+   - Hyprland: [Installation instructions](https://wiki.hyprland.org/Getting-Started/Installation/)
    - Kitty: [Installation instructions](https://sw.kovidgoyal.net/kitty/#installation)
    - Rofi: [Installation instructions](https://github.com/davatorium/rofi#installation)
    - Thunar: [Installation instructions](https://docs.xfce.org/xfce/thunar/start)
    - Waybar: [Installation instructions](https://github.com/Alexays/Waybar#installation)
-   - Hyprpaper: [Installation instructions](https://github.com/hyprwave/hyprpaper#installation)
+   - Hyprpaper: [Installation instructions](https://github.com/hyprwm/hyprpaper)
 
 3. Configure the dotfiles according to your preferences.
 
@@ -44,7 +44,3 @@ To use these dotfiles, follow these steps:
 - Start Waybar: `waybar`
 - Manage wallpapers with Hyprpaper: `hyprpaper`
 - Open Kitty terminal: `kitty`
-
-## License
-
-This project is licensed under the [MIT License](LICENSE).
